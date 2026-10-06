@@ -1,0 +1,27 @@
+{
+  "nama": "TODO_VERIFIKASI",
+  "kota": "TODO_VERIFIKASI",
+  "lat": null,
+  "lng": null,
+  "titikAmanPosJejak": {
+    "deskripsi": "TODO_VERIFIKASI",
+    "lat": null,
+    "lng": null
+  },
+  "tahunPembangunan": {
+    "nilai": "TODO_VERIFIKASI",
+    "sumber": "TODO_VERIFIKASI"
+  },
+  "prasasti": {
+    "teks": "TODO_VERIFIKASI",
+    "sumber": "TODO_VERIFIKASI"
+  },
+  "deskripsiFisik": {
+    "teks": "TODO_VERIFIKASI",
+    "sumber": "TODO_VERIFIKASI"
+  },
+  "kondisiSekarang": {
+    "teks": "TODO_VERIFIKASI",
+    "sumber": "TODO_VERIFIKASI"
+  }
+}

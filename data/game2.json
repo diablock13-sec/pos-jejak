@@ -1,0 +1,22 @@
+{
+  "pertanyaan": "TODO_VERIFIKASI",
+  "sumber": [
+    {
+      "id": "s1",
+      "jenis": "TODO_VERIFIKASI",
+      "judul": "TODO_VERIFIKASI",
+      "pembuat": "TODO_VERIFIKASI",
+      "tahun": "TODO_VERIFIKASI",
+      "sudutPandang": "TODO_VERIFIKASI",
+      "klaim": "TODO_VERIFIKASI",
+      "rujukan": "TODO_VERIFIKASI"
+    }
+  ],
+  "urutanRujukan": [
+    "s1",
+    "s2",
+    "s3",
+    "s4"
+  ],
+  "penalaran": "TODO_VERIFIKASI"
+}

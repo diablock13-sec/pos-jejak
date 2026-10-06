@@ -1,0 +1,31 @@
+{
+  "ronde": [
+    {
+      "id": "r1",
+      "misi": "TODO_VERIFIKASI",
+      "mulai": "n1",
+      "tujuan": "n4",
+      "simpul": [
+        {
+          "id": "n1",
+          "nama": "TODO_VERIFIKASI",
+          "lat": null,
+          "lng": null,
+          "terhubung": [
+            "n2",
+            "n3"
+          ],
+          "petunjuk": {
+            "teks": "TODO_VERIFIKASI",
+            "sumber": "TODO_VERIFIKASI"
+          },
+          "aman": true
+        }
+      ],
+      "penjelasan": {
+        "teks": "TODO_VERIFIKASI",
+        "sumber": "TODO_VERIFIKASI"
+      }
+    }
+  ]
+}
